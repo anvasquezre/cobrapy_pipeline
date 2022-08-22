@@ -1,0 +1,82 @@
+sp|Q74DN5|Y1281_GEOSL	27.232	2.14e-12	84	136	154	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q74E68|PSTB_GEOSL	24.123	8.27e-10	85	148	134	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q74A86|OMCS_GEOSL	98.148	0.0	100	8	2271	tr|A0A2Z5SXB0|A0A2Z5SXB0_GEOSN C-type multiheme cytochrome omcS OS=Geobacter sulfurreducens OX=35554 GN=YM18_2417 PE=4 SV=1
+sp|Q747Q3|PROB_GEOSL	42.975	7.58e-87	97	202	677	sp|B7GNK0|PROB_BIFLS Glutamate 5-kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=proB PE=3 SV=1
+sp|Q74BX5|LEUC_GEOSL	22.672	4.01e-21	95	293	231	sp|Q9SIB9|ACO3M_ARATH Aconitate hydratase 3, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=ACO3 PE=1 SV=2
+sp|Q74D53|MDH_GEOSL	100.000	0.0	100	0	1649	sp|Q74D53|MDH_GEOSL Malate dehydrogenase OS=Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA) OX=243231 GN=mdh PE=3 SV=1
+sp|Q748K0|Y3001_GEOSL	24.481	5.66e-09	81	144	128	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q74AT2|LOLD_GEOSL	29.442	5.52e-11	83	119	141	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+sp|Q74FE9|ISPE_GEOSL	32.593	2.75e-25	88	139	247	sp|B7GPE4|ISPE_BIFLS 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=ispE PE=3 SV=1
+sp|Q74GU4|ARGB_GEOSL	46.875	2.69e-70	97	139	552	sp|B7GTP4|ARGB_BIFLS Acetylglutamate kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=argB PE=3 SV=1
+sp|Q748X8|EFTU_GEOSL	31.151	4.49e-52	98	245	450	sp|P68104|EF1A1_HUMAN Elongation factor 1-alpha 1 OS=Homo sapiens OX=9606 GN=EEF1A1 PE=1 SV=1
+sp|Q74AX0|KTHY_GEOSL	43.750	3.29e-49	96	105	398	sp|B7GT80|KTHY_BIFLS Thymidylate kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=tmk PE=3 SV=1
+sp|Q749I1|GLPK_GEOSL	100.000	0.0	100	0	2578	sp|Q749I1|GLPK_GEOSL Glycerol kinase OS=Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA) OX=243231 GN=glpK PE=3 SV=1
+sp|Q749K5|CYCB_GEOSL	100.000	0.0	100	0	3937	sp|D7ALQ0|CYCB_GEOSK C-type polyheme cytochrome OmcB OS=Geobacter sulfurreducens (strain DL-1 / KN400) OX=663917 GN=omcB PE=3 SV=1
+sp|Q74H59|DNAK_GEOSL	48.342	6.68e-168	88	273	1262	sp|P11484|SSB1_YEAST Ribosome-associated molecular chaperone SSB1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSB1 PE=1 SV=3
+sp|Q749N5|ACKA_GEOSL	100.000	0.0	100	0	2247	sp|Q749N5|ACKA_GEOSL Acetate kinase OS=Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA) OX=243231 GN=ackA PE=3 SV=1
+sp|Q74BU2|COAX_GEOSL	37.154	9.87e-67	99	159	521	sp|B7GUD5|COAX_BIFLS Type III pantothenate kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=coaX PE=3 SV=1
+sp|Q749L1|CYCC_GEOSL	100.000	0.0	100	0	4098	sp|Q749L1|CYCC_GEOSL C-type polyheme cytochrome OmcC OS=Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA) OX=243231 GN=omcC PE=1 SV=1
+sp|Q74E54|NDK_GEOSL	45.588	1.54e-37	99	74	307	sp|P15531|NDKA_HUMAN Nucleoside diphosphate kinase A OS=Homo sapiens OX=9606 GN=NME1 PE=1 SV=1
+sp|Q748X2|LEU3_GEOSL	25.862	9.54e-19	98	227	207	sp|P08200|IDH_ECOLI Isocitrate dehydrogenase [NADP] OS=Escherichia coli (strain K12) OX=83333 GN=icd PE=1 SV=1
+tr|Q74DN0|Q74DN0_GEOSL	34.677	2.21e-12	92	65	137	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q74CE4|Q74CE4_GEOSL	26.818	2.20e-10	86	142	138	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q74BM8|Q74BM8_GEOSL	28.963	6.66e-44	95	293	404	sp|P18159|PGCA_BACSU Phosphoglucomutase OS=Bacillus subtilis (strain 168) OX=224308 GN=pgcA PE=1 SV=3
+tr|Q748T9|Q748T9_GEOSL	49.573	0.0	98	441	2328	tr|A0A0B5BEL7|A0A0B5BEL7_9DELT Cytochrome C OS=Geobacter pickeringii OX=345632 GN=GPICK_03140 PE=4 SV=1
+tr|Q749N6|Q749N6_GEOSL	51.205	1.61e-112	99	160	839	sp|P71103|PTAS_CLOAB Phosphate acetyltransferase OS=Clostridium acetobutylicum (strain ATCC 824 / DSM 792 / JCM 1419 / LMG 5710 / VKM B-1787) OX=272562 GN=pta PE=3 SV=2
+tr|Q749P9|Q749P9_GEOSL	29.091	4.30e-09	84	76	119	sp|P0AEC5|BARA_ECOLI Signal transduction histidine-protein kinase BarA OS=Escherichia coli (strain K12) OX=83333 GN=barA PE=1 SV=1
+tr|I7FK79|I7FK79_GEOSL	38.318	3.21e-18	85	63	187	sp|P0AEC5|BARA_ECOLI Signal transduction histidine-protein kinase BarA OS=Escherichia coli (strain K12) OX=83333 GN=barA PE=1 SV=1
+tr|Q74CE3|Q74CE3_GEOSL	21.296	4.55e-08	83	145	120	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|Q746X7|Q746X7_GEOSL	23.005	7.56e-14	89	156	164	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q74CQ4|Q74CQ4_GEOSL	33.028	4.34e-09	90	69	114	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q74AU0|Q74AU0_GEOSL	26.727	3.24e-49	92	325	459	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q74AU0|Q74AU0_GEOSL	26.025	5.21e-33	92	341	332	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|I7EP62|I7EP62_GEOSL	46.502	7.71e-66	96	120	514	sp|P60174|TPIS_HUMAN Triosephosphate isomerase OS=Homo sapiens OX=9606 GN=TPI1 PE=1 SV=4
+tr|Q74GZ2|Q74GZ2_GEOSL	29.508	1.76e-47	80	316	447	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q74DV0|Q74DV0_GEOSL	22.289	3.54e-25	83	329	269	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q746S0|Q746S0_GEOSL	58.853	0.0	99	165	1321	sp|Q39WV0|ACKA_GEOMG Acetate kinase OS=Geobacter metallireducens (strain ATCC 53774 / DSM 7210 / GS-15) OX=269799 GN=ackA PE=3 SV=1
+tr|Q746X6|Q746X6_GEOSL	24.793	2.73e-11	94	164	146	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q74E47|Q74E47_GEOSL	35.833	2.03e-14	92	74	150	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q74EL5|Q74EL5_GEOSL	27.602	2.68e-15	89	117	175	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q748L6|Q748L6_GEOSL	28.000	7.37e-10	84	124	134	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q74G82|Q74G82_GEOSL	100.000	1.98e-66	100	0	487	tr|Q74G82|Q74G82_GEOSL Cytochrome c OS=Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA) OX=243231 GN=ppcC PE=1 SV=1
+tr|Q74C60|Q74C60_GEOSL	24.773	1.96e-17	97	213	193	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+tr|Q74AM7|Q74AM7_GEOSL	31.670	1.16e-130	95	538	1068	sp|P05023|AT1A1_HUMAN Sodium/potassium-transporting ATPase subunit alpha-1 OS=Homo sapiens OX=9606 GN=ATP1A1 PE=1 SV=1
+tr|Q747R7|Q747R7_GEOSL	26.891	2.69e-10	97	85	122	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q74GY8|Q74GY8_GEOSL	25.532	6.81e-04	86	56	77	tr|A0A3G8LV62|A0A3G8LV62_9GAMM DmsE family decaheme c-type cytochrome OS=Shewanella livingstonensis OX=150120 GN=EGC82_11225 PE=4 SV=1
+tr|Q747L2|Q747L2_GEOSL	28.333	7.74e-08	93	81	105	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q74AR5|Q74AR5_GEOSL	26.400	1.05e-12	92	87	140	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q74AX6|Q74AX6_GEOSL	30.172	5.01e-16	96	81	161	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q74AR4|Q74AR4_GEOSL	23.377	9.09e-18	96	337	206	sp|P0AEC5|BARA_ECOLI Signal transduction histidine-protein kinase BarA OS=Escherichia coli (strain K12) OX=83333 GN=barA PE=1 SV=1
+tr|Q74A26|Q74A26_GEOSL	24.675	7.62e-10	83	143	134	sp|P0AEC5|BARA_ECOLI Signal transduction histidine-protein kinase BarA OS=Escherichia coli (strain K12) OX=83333 GN=barA PE=1 SV=1
+tr|Q74C99|Q74C99_GEOSL	27.273	2.58e-15	96	151	175	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q746U7|Q746U7_GEOSL	28.767	4.86e-28	95	156	258	sp|Q79VI7|CRPL_CORGL CRP-like cAMP-activated global transcriptional regulator OS=Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025) OX=196627 GN=glxR PE=1 SV=1
+tr|Q74F11|Q74F11_GEOSL	25.498	1.29e-11	96	148	148	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q74F11|Q74F11_GEOSL	23.140	4.44e-08	96	158	120	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q74ES8|Q74ES8_GEOSL	22.727	4.02e-19	95	361	217	sp|P0AEC5|BARA_ECOLI Signal transduction histidine-protein kinase BarA OS=Escherichia coli (strain K12) OX=83333 GN=barA PE=1 SV=1
+tr|Q74EN7|Q74EN7_GEOSL	27.803	9.61e-15	83	137	172	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|Q74DA0|Q74DA0_GEOSL	32.520	3.42e-06	85	80	95	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q74BN2|Q74BN2_GEOSL	26.577	1.01e-09	89	140	132	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|I7FK92|I7FK92_GEOSL	45.792	9.83e-115	98	204	866	sp|B7GQU7|PGK_BIFLS Phosphoglycerate kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=pgk PE=3 SV=1
+tr|Q74ER6|Q74ER6_GEOSL	35.404	1.42e-16	88	82	171	sp|P62937|PPIA_HUMAN Peptidyl-prolyl cis-trans isomerase A OS=Homo sapiens OX=9606 GN=PPIA PE=1 SV=2
+tr|Q74DM7|Q74DM7_GEOSL	38.462	4.39e-23	96	71	208	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|I7F9P2|I7F9P2_GEOSL	24.576	6.33e-08	89	88	106	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q74G46|Q74G46_GEOSL	41.525	9.46e-27	97	65	232	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q74BN3|Q74BN3_GEOSL	28.440	6.69e-13	88	120	157	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q74BN3|Q74BN3_GEOSL	20.370	0.009	88	137	77	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q74B20|Q74B20_GEOSL	31.193	8.74e-17	90	118	185	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|Q74FD1|Q74FD1_GEOSL	30.612	2.42e-19	82	116	205	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|Q74AY7|Q74AY7_GEOSL	38.938	3.91e-23	87	67	209	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q749U1|Q749U1_GEOSL	26.000	2.87e-14	98	149	168	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q74BJ9|Q74BJ9_GEOSL	23.355	4.96e-16	81	256	192	sp|P0AEC5|BARA_ECOLI Signal transduction histidine-protein kinase BarA OS=Escherichia coli (strain K12) OX=83333 GN=barA PE=1 SV=1
+tr|Q74B53|Q74B53_GEOSL	29.557	9.96e-13	82	122	155	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|I7FIK3|I7FIK3_GEOSL	41.935	0.12	84	18	54	sp|Q9F282|ADHA_THEET Long-chain primary alcohol dehydrogenase AdhA OS=Thermoanaerobacter ethanolicus OX=1757 GN=adhA PE=1 SV=1
+tr|Q74CN4|Q74CN4_GEOSL	28.244	1.05e-12	95	91	141	sp|P0A0Z0|Y1378_NEIMB Putative HTH-type transcriptional regulator NMB1378 OS=Neisseria meningitidis serogroup B (strain MC58) OX=122586 GN=NMB1378 PE=4 SV=1
+tr|Q74DT7|Q74DT7_GEOSL	34.146	9.52e-57	95	186	467	tr|A0A6G9QP23|A0A6G9QP23_9GAMM DmsE family decaheme c-type cytochrome OS=Shewanella aestuarii OX=1028752 GN=HBH39_14235 PE=4 SV=1
+tr|Q74CF6|Q74CF6_GEOSL	31.991	1.31e-60	81	271	518	sp|P68104|EF1A1_HUMAN Elongation factor 1-alpha 1 OS=Homo sapiens OX=9606 GN=EEF1A1 PE=1 SV=1
+tr|Q749I2|Q749I2_GEOSL	31.522	3.51e-67	99	321	569	sp|P18158|GLPD_BACSU Aerobic glycerol-3-phosphate dehydrogenase OS=Bacillus subtilis (strain 168) OX=224308 GN=glpD PE=2 SV=2
+tr|Q747G5|Q747G5_GEOSL	22.346	7.53e-04	83	127	83	sp|B7GT80|KTHY_BIFLS Thymidylate kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=tmk PE=3 SV=1
+tr|Q747D6|Q747D6_GEOSL	40.763	9.58e-104	98	264	812	sp|Q7RVA8|KPYK_NEUCR Pyruvate kinase OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=ace-8 PE=3 SV=1
+tr|Q748W7|Q748W7_GEOSL	100.000	0.0	100	0	5279	tr|Q748W7|Q748W7_GEOSL Cytochrome c OS=Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA) OX=243231 GN=omcA PE=4 SV=2
+tr|Q74A89|Q74A89_GEOSL	51.264	4.95e-148	98	200	1094	tr|A0A0C1TTM3|A0A0C1TTM3_9DELT Cytochrome C OS=Geobacter soli OX=1510391 GN=SE37_02820 PE=4 SV=1
+tr|Q74DH1|Q74DH1_GEOSL	27.703	1.44e-09	95	93	120	sp|P0A0Z0|Y1378_NEIMB Putative HTH-type transcriptional regulator NMB1378 OS=Neisseria meningitidis serogroup B (strain MC58) OX=122586 GN=NMB1378 PE=4 SV=1
+tr|Q74EM1|Q74EM1_GEOSL	29.817	5.68e-19	82	136	204	sp|P0AEC5|BARA_ECOLI Signal transduction histidine-protein kinase BarA OS=Escherichia coli (strain K12) OX=83333 GN=barA PE=1 SV=1

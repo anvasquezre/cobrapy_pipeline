@@ -1,0 +1,107 @@
+sp|Q8EIB1|PGK_SHEON	44.030	6.25e-96	98	203	741	sp|B7GQU7|PGK_BIFLS Phosphoglycerate kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=pgk PE=3 SV=1
+sp|Q8EHZ1|SLYX_SHEON	27.692	0.82	87	43	52	sp|Q8T773|MDH1B_BRAFL Putative malate dehydrogenase 1B OS=Branchiostoma floridae OX=7739 GN=MDH1B PE=3 SV=1
+sp|Q8E9I8|PSTB2_SHEON	30.093	5.72e-14	88	119	166	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q8E9I8|PSTB2_SHEON	25.909	3.80e-13	88	151	160	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q8EGS1|NADK_SHEON	32.959	1.45e-41	88	163	362	sp|B7GTM7|NADK_BIFLS NAD kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=nadK PE=3 SV=1
+sp|Q8EBB7|PURT_SHEON	68.123	0.0	99	123	1410	sp|P33221|PURT_ECOLI Formate-dependent phosphoribosylglycinamide formyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=purT PE=1 SV=3
+sp|Q8EJW1|PRPB_SHEON	38.996	7.18e-46	88	157	390	sp|Q05957|PDP_DIACA Petal death protein OS=Dianthus caryophyllus OX=3570 GN=PDP PE=1 SV=1
+sp|Q8EHL9|TPIS_SHEON	42.857	1.06e-63	96	130	501	sp|P60174|TPIS_HUMAN Triosephosphate isomerase OS=Homo sapiens OX=9606 GN=TPI1 PE=1 SV=4
+sp|Q8EEU5|HSCA_SHEON	41.328	8.19e-119	84	294	933	sp|P11484|SSB1_YEAST Ribosome-associated molecular chaperone SSB1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSB1 PE=1 SV=3
+sp|Q8EHT7|DNAK_SHEON	45.833	2.07e-163	88	287	1233	sp|P11484|SSB1_YEAST Ribosome-associated molecular chaperone SSB1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSB1 PE=1 SV=3
+sp|Q8EHU2|PROB_SHEON	37.260	2.90e-65	97	220	532	sp|B7GNK0|PROB_BIFLS Glutamate 5-kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=proB PE=3 SV=1
+sp|Q8EK63|RL22_SHEON	28.319	0.036	95	65	66	sp|B4S9F1|MDH_PROA2 Malate dehydrogenase OS=Prosthecochloris aestuarii (strain DSM 271 / SK 413) OX=290512 GN=mdh PE=3 SV=1
+sp|P59301|ARGB_SHEON	32.773	4.78e-17	86	144	186	sp|B7GTP4|ARGB_BIFLS Acetylglutamate kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=argB PE=3 SV=1
+sp|Q8EEB0|KDNB_SHEON	100.000	0.0	100	0	1913	sp|Q8EEB0|KDNB_SHEON 3-deoxy-alpha-D-manno-octulosonate 8-oxidase OS=Shewanella oneidensis (strain MR-1) OX=211586 GN=kdnB PE=1 SV=1
+sp|Q8EK70|EFTU2_SHEON	28.285	5.93e-42	98	248	380	sp|P68104|EF1A1_HUMAN Elongation factor 1-alpha 1 OS=Homo sapiens OX=9606 GN=EEF1A1 PE=1 SV=1
+sp|Q8EB59|HMUV_SHEON	27.500	5.00e-13	86	124	158	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+sp|Q8EK81|EFTU1_SHEON	28.285	1.95e-42	98	248	383	sp|P68104|EF1A1_HUMAN Elongation factor 1-alpha 1 OS=Homo sapiens OX=9606 GN=EEF1A1 PE=1 SV=1
+sp|Q8ED55|ACKA_SHEON	100.000	0.0	100	0	2126	sp|Q8ED55|ACKA_SHEON Acetate kinase OS=Shewanella oneidensis (strain MR-1) OX=211586 GN=ackA PE=3 SV=1
+sp|Q8EEB6|DAPE_SHEON	22.161	5.68e-12	87	244	154	sp|Q99JW2|ACY1_MOUSE Aminoacylase-1 OS=Mus musculus OX=10090 GN=Acy1 PE=1 SV=1
+sp|Q8E9N7|GLPK_SHEON	100.000	0.0	100	0	2640	sp|Q8E9N7|GLPK_SHEON Glycerol kinase OS=Shewanella oneidensis (strain MR-1) OX=211586 GN=glpK PE=3 SV=1
+sp|Q8EDK3|ACSA_SHEON	70.233	0.0	99	192	2531	sp|P27550|ACSA_ECOLI Acetyl-coenzyme A synthetase OS=Escherichia coli (strain K12) OX=83333 GN=acs PE=1 SV=2
+sp|Q8EHC1|AQPZ_SHEON	31.687	1.29e-18	94	137	195	sp|Q51389|GLPF_PSEAE Glycerol uptake facilitator protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=glpF PE=3 SV=2
+sp|Q8EJW3|ACND_SHEON	42.593	0.0	94	437	1739	sp|Q9SIB9|ACO3M_ARATH Aconitate hydratase 3, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=ACO3 PE=1 SV=2
+sp|Q8E9N3|LEU3_SHEON	26.842	8.48e-19	91	210	207	sp|P08200|IDH_ECOLI Isocitrate dehydrogenase [NADP] OS=Escherichia coli (strain K12) OX=83333 GN=icd PE=1 SV=1
+sp|Q8EEU0|NDK_SHEON	44.604	3.63e-40	97	77	325	sp|P15531|NDKA_HUMAN Nucleoside diphosphate kinase A OS=Homo sapiens OX=9606 GN=NME1 PE=1 SV=1
+sp|P83223|FRDA_SHEON	100.000	0.0	100	0	3144	sp|P83223|FRDA_SHEON Fumarate reductase flavoprotein subunit OS=Shewanella oneidensis (strain MR-1) OX=211586 GN=SO_0970 PE=1 SV=2
+sp|Q8EDX8|KTHY_SHEON	39.614	1.68e-34	97	118	300	sp|B7GT80|KTHY_BIFLS Thymidylate kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=tmk PE=3 SV=1
+sp|P82177|MDH_SHEON	100.000	0.0	100	0	1592	sp|P82177|MDH_SHEON Malate dehydrogenase OS=Shewanella oneidensis (strain MR-1) OX=211586 GN=mdh PE=1 SV=2
+sp|Q8EDF0|MSBA_SHEON	25.676	6.30e-45	95	391	428	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q8EEV5|LOLD_SHEON	26.500	1.96e-13	83	127	160	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|Q8EC43|Q8EC43_SHEON	34.416	7.06e-66	92	275	561	tr|A0A1V5E2G7|A0A1V5E2G7_9DELT Fumarate reductase flavoprotein subunit OS=Syntrophus sp. PtaU1.Bin208 OX=1811713 GN=A4E72_01239 PE=3 SV=1
+tr|Q8EA11|Q8EA11_SHEON	22.778	5.01e-11	87	210	147	sp|P11484|SSB1_YEAST Ribosome-associated molecular chaperone SSB1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSB1 PE=1 SV=3
+tr|Q8EC44|Q8EC44_SHEON	30.769	1.46e-14	90	70	159	tr|A0A1S6HX82|A0A1S6HX82_9GAMM Fumarate reductase flavoprotein subunit OS=Shewanella psychrophila OX=225848 GN=Sps_04949 PE=3 SV=1
+tr|Q8ECS4|Q8ECS4_SHEON	34.615	3.01e-73	89	273	614	tr|A0A094JHF8|A0A094JHF8_9GAMM Fumarate reductase flavoprotein subunit OS=Shewanella mangrovi OX=1515746 GN=HR45_10665 PE=3 SV=1
+tr|Q8EDP3|Q8EDP3_SHEON	25.373	0.53	87	128	62	sp|P71017|GBSB_BACSU Choline dehydrogenase OS=Bacillus subtilis (strain 168) OX=224308 GN=gbsB PE=1 SV=2
+tr|Q8CVD4|Q8CVD4_SHEON	100.000	0.0	100	0	3678	tr|O87542|O87542_SHEPU Outer membrane protein OS=Shewanella putrefaciens OX=24 GN=mtrB PE=4 SV=1
+tr|Q8EIS3|Q8EIS3_SHEON	20.468	0.21	89	115	64	sp|Q8XJN2|ACKA2_CLOPE Acetate kinase 2 OS=Clostridium perfringens (strain 13 / Type A) OX=195102 GN=ackA2 PE=3 SV=1
+tr|Q8EET2|Q8EET2_SHEON	25.502	8.74e-39	80	337	376	sp|Q8CIW6|S26A6_MOUSE Solute carrier family 26 member 6 OS=Mus musculus OX=10090 GN=Slc26a6 PE=1 SV=2
+tr|Q8E8S6|Q8E8S6_SHEON	25.328	7.55e-07	92	141	109	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|Q8EG54|Q8EG54_SHEON	36.329	1.52e-107	89	316	850	sp|P18159|PGCA_BACSU Phosphoglucomutase OS=Bacillus subtilis (strain 168) OX=224308 GN=pgcA PE=1 SV=3
+tr|Q8EKP6|Q8EKP6_SHEON	27.407	2.31e-06	89	96	98	sp|P0A0Z0|Y1378_NEIMB Putative HTH-type transcriptional regulator NMB1378 OS=Neisseria meningitidis serogroup B (strain MC58) OX=122586 GN=NMB1378 PE=4 SV=1
+tr|Q8EB70|Q8EB70_SHEON	23.623	1.10e-27	98	372	286	sp|P27550|ACSA_ECOLI Acetyl-coenzyme A synthetase OS=Escherichia coli (strain K12) OX=83333 GN=acs PE=1 SV=2
+tr|Q8EEQ6|Q8EEQ6_SHEON	39.316	2.79e-23	96	70	209	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q8EGE5|Q8EGE5_SHEON	24.453	1.00e-28	98	417	299	tr|A0A0C3R3U8|A0A0C3R3U8_9GAMM Cytochrome C OS=Shewanella sp. cp20 OX=1521167 GN=DB48_06085 PE=4 SV=1
+tr|Q8EDL6|Q8EDL6_SHEON	40.741	3.01e-17	83	49	178	tr|E6XLT2|E6XLT2_SHEP2 Fumarate reductase flavoprotein subunit OS=Shewanella putrefaciens (strain 200) OX=399804 GN=Sput200_0902 PE=3 SV=1
+tr|K4PTY7|K4PTY7_SHEON	40.258	3.79e-150	96	353	1147	sp|P27550|ACSA_ECOLI Acetyl-coenzyme A synthetase OS=Escherichia coli (strain K12) OX=83333 GN=acs PE=1 SV=2
+tr|Q8EH10|Q8EH10_SHEON	45.581	2.25e-176	98	303	1311	tr|A0A1V5E2G7|A0A1V5E2G7_9DELT Fumarate reductase flavoprotein subunit OS=Syntrophus sp. PtaU1.Bin208 OX=1811713 GN=A4E72_01239 PE=3 SV=1
+tr|Q8EDV5|Q8EDV5_SHEON	57.817	7.91e-142	97	139	1036	sp|P13154|DHLE_GEOSE Leucine dehydrogenase OS=Geobacillus stearothermophilus OX=1422 GN=ldh PE=1 SV=3
+tr|Q8EFZ9|Q8EFZ9_SHEON	24.354	3.59e-19	81	173	208	sp|P32561|RPD3_YEAST Histone deacetylase RPD3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPD3 PE=1 SV=1
+tr|Q8EGV1|Q8EGV1_SHEON	67.979	0.0	99	122	1362	sp|P37686|ADH2_ECOLI Probable alcohol dehydrogenase OS=Escherichia coli (strain K12) OX=83333 GN=yiaY PE=3 SV=4
+tr|Q8EJV1|Q8EJV1_SHEON	27.225	4.92e-44	91	342	413	sp|P18163|ACSL1_RAT Long-chain-fatty-acid--CoA ligase 1 OS=Rattus norvegicus OX=10116 GN=Acsl1 PE=1 SV=1
+tr|Q8E8U1|Q8E8U1_SHEON	20.735	0.004	84	273	83	sp|Q92536|YLAT2_HUMAN Y+L amino acid transporter 2 OS=Homo sapiens OX=9606 GN=SLC7A6 PE=1 SV=3
+tr|Q8ECS6|Q8ECS6_SHEON	36.134	2.08e-15	90	52	166	tr|A0A3C1BPR6|A0A3C1BPR6_9BACT Fumarate reductase flavoprotein subunit OS=Deferribacteraceae bacterium OX=2053543 GN=DCM31_00620 PE=3 SV=1
+tr|Q8ECK9|Q8ECK9_SHEON	27.146	1.03e-46	81	328	442	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q8EG33|Q8EG33_SHEON	24.967	1.63e-35	97	383	353	tr|V1DJ09|V1DJ09_9GAMM Decaheme cytochrome c OS=Shewanella decolorationis S12 OX=1353536 GN=SHD_2527 PE=4 SV=1
+tr|Q8E925|Q8E925_SHEON	57.513	3.07e-157	99	162	1144	sp|Q46856|YQHD_ECOLI Alcohol dehydrogenase YqhD OS=Escherichia coli (strain K12) OX=83333 GN=yqhD PE=1 SV=1
+tr|Q8E9I2|Q8E9I2_SHEON	21.990	3.98e-05	82	141	93	sp|Q79VI7|CRPL_CORGL CRP-like cAMP-activated global transcriptional regulator OS=Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025) OX=196627 GN=glxR PE=1 SV=1
+tr|Q8EE18|Q8EE18_SHEON	34.307	2.54e-13	80	75	148	sp|P62937|PPIA_HUMAN Peptidyl-prolyl cis-trans isomerase A OS=Homo sapiens OX=9606 GN=PPIA PE=1 SV=2
+tr|Q8EE96|Q8EE96_SHEON	34.827	5.96e-80	99	298	652	sp|Q7RVA8|KPYK_NEUCR Pyruvate kinase OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=ace-8 PE=3 SV=1
+tr|Q8EE09|Q8EE09_SHEON	26.577	6.81e-27	84	311	280	sp|P18163|ACSL1_RAT Long-chain-fatty-acid--CoA ligase 1 OS=Rattus norvegicus OX=10116 GN=Acsl1 PE=1 SV=1
+tr|Q8EJ49|Q8EJ49_SHEON	28.922	4.35e-22	95	140	215	sp|Q79VI7|CRPL_CORGL CRP-like cAMP-activated global transcriptional regulator OS=Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025) OX=196627 GN=glxR PE=1 SV=1
+tr|Q8EIB0|Q8EIB0_SHEON	27.945	3.28e-24	91	176	244	sp|D4GYE0|ALF_HALVD Fructose-bisphosphate aldolase class 2 OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=fba PE=1 SV=1
+tr|Q8EG13|Q8EG13_SHEON	25.101	7.29e-12	90	154	150	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q8EEV0|Q8EEV0_SHEON	51.493	1.11e-44	88	65	355	sp|P0A0Z0|Y1378_NEIMB Putative HTH-type transcriptional regulator NMB1378 OS=Neisseria meningitidis serogroup B (strain MC58) OX=122586 GN=NMB1378 PE=4 SV=1
+tr|Q8EFY0|Q8EFY0_SHEON	26.230	0.24	80	39	57	sp|O13702|GLD1_SCHPO Glycerol dehydrogenase 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gld1 PE=1 SV=1
+tr|Q8EB69|Q8EB69_SHEON	23.121	4.05e-25	85	361	269	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q8ED54|Q8ED54_SHEON	66.713	0.0	99	236	2564	sp|P0A9M8|PTA_ECOLI Phosphate acetyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=pta PE=1 SV=2
+tr|Q8ECH5|Q8ECH5_SHEON	25.070	1.30e-14	96	206	173	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+tr|Q8EAE6|Q8EAE6_SHEON	21.918	2.99e-08	86	148	121	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q8EJQ6|Q8EJQ6_SHEON	41.304	7.79e-16	82	50	167	sp|P30101|PDIA3_HUMAN Protein disulfide-isomerase A3 OS=Homo sapiens OX=9606 GN=PDIA3 PE=1 SV=4
+tr|Q8EG30|Q8EG30_SHEON	100.000	0.0	100	0	1712	tr|Q8EG30|Q8EG30_SHEON Extracellular respiratory system periplasmic decaheme cytochrome c component MtrD OS=Shewanella oneidensis (strain MR-1) OX=211586 GN=mtrD PE=4 SV=2
+tr|Q8EH05|Q8EH05_SHEON	100.000	0.0	100	0	1708	tr|Q8EH05|Q8EH05_SHEON Periplasmic decaheme cytochrome c DmsE OS=Shewanella oneidensis (strain MR-1) OX=211586 GN=dmsE PE=4 SV=1
+tr|Q8EAW4|Q8EAW4_SHEON	31.250	0.090	81	27	58	sp|P12522|ATXB_LEIDO Probable proton ATPase 1B OS=Leishmania donovani OX=5661 GN=H1B PE=2 SV=1
+tr|Q8EEP1|Q8EEP1_SHEON	23.156	1.51e-20	93	330	228	sp|P18159|PGCA_BACSU Phosphoglucomutase OS=Bacillus subtilis (strain 168) OX=224308 GN=pgcA PE=1 SV=3
+tr|Q8EI69|Q8EI69_SHEON	25.753	3.95e-27	91	251	274	sp|P18158|GLPD_BACSU Aerobic glycerol-3-phosphate dehydrogenase OS=Bacillus subtilis (strain 168) OX=224308 GN=glpD PE=2 SV=2
+tr|Q8EI11|Q8EI11_SHEON	29.545	7.77e-16	89	133	180	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q8EJU3|Q8EJU3_SHEON	34.971	6.80e-64	99	212	519	sp|E8MF12|NAHK_BIFL2 N-acetylhexosamine 1-kinase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=nahK PE=1 SV=1
+tr|Q8EH17|Q8EH17_SHEON	31.381	2.40e-48	94	296	433	tr|A0A350CXU4|A0A350CXU4_9BURK Flavocytochrome c OS=Sutterellaceae bacterium OX=2026794 GN=DCW92_04735 PE=3 SV=1
+tr|Q8EI78|Q8EI78_SHEON	61.890	1.57e-156	99	125	1128	sp|P52643|LDHD_ECOLI D-lactate dehydrogenase OS=Escherichia coli (strain K12) OX=83333 GN=ldhA PE=1 SV=1
+tr|Q8ECF3|Q8ECF3_SHEON	27.679	3.21e-24	94	215	244	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+tr|Q8EG23|Q8EG23_SHEON	33.803	1.49e-13	83	79	150	sp|P62937|PPIA_HUMAN Peptidyl-prolyl cis-trans isomerase A OS=Homo sapiens OX=9606 GN=PPIA PE=1 SV=2
+tr|Q8E9C4|Q8E9C4_SHEON	100.000	0.0	100	0	1609	tr|Q8E9C4|Q8E9C4_SHEON Periplasmic decaheme cytochrome c MtrA family OS=Shewanella oneidensis (strain MR-1) OX=211586 GN=SO_4360 PE=4 SV=1
+tr|Q8EE43|Q8EE43_SHEON	27.928	1.44e-07	90	78	103	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q8E8X2|Q8E8X2_SHEON	23.404	0.018	88	88	71	sp|Q4R816|LDH6B_MACFA L-lactate dehydrogenase A-like 6B OS=Macaca fascicularis OX=9541 GN=LDHAL6B PE=2 SV=1
+tr|Q8EG32|Q8EG32_SHEON	33.680	1.73e-107	98	368	861	tr|A0A2W5E1F3|A0A2W5E1F3_SHEOE Cytochrome C OS=Shewanella oneidensis OX=70863 GN=DI594_07970 PE=4 SV=1
+tr|Q8EKL7|Q8EKL7_SHEON	29.680	1.56e-73	95	375	628	sp|P18163|ACSL1_RAT Long-chain-fatty-acid--CoA ligase 1 OS=Rattus norvegicus OX=10116 GN=Acsl1 PE=1 SV=1
+tr|Q8EBQ2|Q8EBQ2_SHEON	44.543	0.0	94	472	1844	sp|P0AEC5|BARA_ECOLI Signal transduction histidine-protein kinase BarA OS=Escherichia coli (strain K12) OX=83333 GN=barA PE=1 SV=1
+tr|Q8EF67|Q8EF67_SHEON	38.095	3.78e-21	86	64	195	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q8EEX5|Q8EEX5_SHEON	61.905	8.16e-74	99	64	551	sp|P0A284|PTGA_SALTI PTS system glucose-specific EIIA component OS=Salmonella typhi OX=90370 GN=crr PE=1 SV=2
+tr|Q8EG35|Q8EG35_SHEON	100.000	0.0	100	0	1780	tr|O87541|O87541_SHEPU C-type cytochrome OS=Shewanella putrefaciens OX=24 GN=mtrA PE=4 SV=1
+tr|Q8EAF2|Q8EAF2_SHEON	22.656	1.60e-10	90	157	140	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q8E9C5|Q8E9C5_SHEON	26.471	7.12e-57	99	436	513	tr|A0A330M3Q4|A0A330M3Q4_9GAMM Outer membrane protein MtrB OS=Shewanella benthica OX=43661 GN=SHEWBE_2097 PE=4 SV=1
+tr|Q8EKM2|Q8EKM2_SHEON	25.581	1.56e-14	84	149	169	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|Q8ECD4|Q8ECD4_SHEON	69.048	7.23e-64	99	39	477	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+tr|Q8EG34|Q8EG34_SHEON	100.000	0.0	100	0	3594	tr|Q8EG34|Q8EG34_SHEON Extracellular iron oxide respiratory system surface decaheme cytochrome c component MtrC OS=Shewanella oneidensis (strain MR-1) OX=211586 GN=mtrC PE=1 SV=1
+tr|Q8ECF4|Q8ECF4_SHEON	25.397	1.12e-12	94	208	158	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+tr|Q8EGE0|Q8EGE0_SHEON	60.417	6.17e-146	99	131	1060	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+tr|Q8E8S0|Q8E8S0_SHEON	100.000	1.05e-144	100	0	1020	tr|P95832|P95832_SHEPU Cytochrome c-type protein OS=Shewanella putrefaciens OX=24 GN=cymA PE=3 SV=1
+tr|Q8E8H8|Q8E8H8_SHEON	25.291	3.74e-28	97	218	272	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+tr|Q8EGV7|Q8EGV7_SHEON	62.061	0.0	97	152	1393	sp|P9WKK7|ACEA_MYCTU Isocitrate lyase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=icl PE=1 SV=1
+tr|Q8EH04|Q8EH04_SHEON	37.518	1.38e-148	99	396	1144	tr|A8H633|A8H633_SHEPA Outer membrane protein MtrB OS=Shewanella pealeana (strain ATCC 700345 / ANG-SQ1) OX=398579 GN=Spea_2700 PE=4 SV=1
+tr|Q8EGQ7|Q8EGQ7_SHEON	34.167	1.34e-56	90	176	473	sp|P08200|IDH_ECOLI Isocitrate dehydrogenase [NADP] OS=Escherichia coli (strain K12) OX=83333 GN=icd PE=1 SV=1
+tr|Q8EG31|Q8EG31_SHEON	40.029	3.32e-161	96	399	1232	tr|A0A6G7LTP2|A0A6G7LTP2_9GAMM MtrB/PioB family decaheme-associated outer membrane protein OS=Shewanella chilikensis OX=558541 GN=GII14_14285 PE=4 SV=1
+tr|Q8EDW2|Q8EDW2_SHEON	72.554	0.0	99	202	2879	sp|P16100|IDH_AZOVI Isocitrate dehydrogenase [NADP] OS=Azotobacter vinelandii OX=354 GN=icd PE=1 SV=5
+tr|Q8EBA7|Q8EBA7_SHEON	31.967	8.39e-13	97	66	145	tr|A0A550ACE2|A0A550ACE2_9GAMM Fumarate reductase flavoprotein subunit OS=Shewanella sp. YLB-08 OX=2593656 GN=FM038_09730 PE=3 SV=1
+tr|Q8EF55|Q8EF55_SHEON	77.906	0.0	99	188	3563	sp|P0A9Q8|ADHE_ECO57 Aldehyde-alcohol dehydrogenase OS=Escherichia coli O157:H7 OX=83334 GN=adhE PE=3 SV=2
+tr|Q8EIB6|Q8EIB6_SHEON	25.000	0.21	85	53	60	tr|A0A6G9QP23|A0A6G9QP23_9GAMM DmsE family decaheme c-type cytochrome OS=Shewanella aestuarii OX=1028752 GN=HBH39_14235 PE=4 SV=1

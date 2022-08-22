@@ -1,0 +1,164 @@
+sp|P0AA27|THIO_ECO57	38.462	3.77e-17	82	54	177	sp|P30101|PDIA3_HUMAN Protein disulfide-isomerase A3 OS=Homo sapiens OX=9606 GN=PDIA3 PE=1 SV=4
+sp|Q8XBK4|TTDT_ECO57	26.608	2.67e-21	91	308	232	sp|Q07252|MEMP_CUPNH Membrane protein OS=Cupriavidus necator (strain ATCC 17699 / DSM 428 / KCTC 22496 / NCIMB 10442 / H16 / Stanier 337) OX=381666 GN=H16_A0667 PE=3 SV=2
+sp|P67911|HLDD_ECO57	24.671	8.03e-06	87	179	102	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+sp|P0AE75|CITT_ECO57	26.186	3.94e-20	96	323	223	sp|Q07252|MEMP_CUPNH Membrane protein OS=Cupriavidus necator (strain ATCC 17699 / DSM 428 / KCTC 22496 / NCIMB 10442 / H16 / Stanier 337) OX=381666 GN=H16_A0667 PE=3 SV=2
+sp|P0A6N3|EFTU_ECO57	28.251	1.58e-40	98	252	370	sp|P68104|EF1A1_HUMAN Elongation factor 1-alpha 1 OS=Homo sapiens OX=9606 GN=EEF1A1 PE=1 SV=1
+sp|Q8X4R2|GATY_ECO57	33.459	1.91e-40	88	157	353	sp|D4GYE0|ALF_HALVD Fructose-bisphosphate aldolase class 2 OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=fba PE=1 SV=1
+sp|Q8X5I6|TAUB_ECO57	29.302	3.26e-16	80	121	184	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q8XD03|PGK_ECO57	42.714	1.41e-89	96	198	698	sp|B7GQU7|PGK_BIFLS Phosphoglycerate kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=pgk PE=3 SV=1
+sp|Q8XAF1|TDCD_ECO57	100.000	0.0	100	0	2120	sp|Q8XAF1|TDCD_ECO57 Propionate kinase OS=Escherichia coli O157:H7 OX=83334 GN=tdcD PE=3 SV=2
+sp|Q8X9T8|R31B2_ECO57	25.676	0.14	85	55	59	sp|Q487A4|ACEK_COLP3 Isocitrate dehydrogenase kinase/phosphatase OS=Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX=167879 GN=aceK PE=3 SV=1
+sp|P0A7B7|PROB_ECO57	41.713	8.73e-74	98	205	589	sp|B7GNK0|PROB_BIFLS Glutamate 5-kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=proB PE=3 SV=1
+sp|Q8XCJ9|PURT_ECO57	99.235	0.0	100	3	2036	sp|P33221|PURT_ECOLI Formate-dependent phosphoribosylglycinamide formyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=purT PE=1 SV=3
+sp|P0A6F4|GLPK_ECO57	100.000	0.0	100	0	2694	sp|C5A093|GLPK_ECOBW Glycerol kinase OS=Escherichia coli (strain K12 / MC4100 / BW2952) OX=595496 GN=glpK PE=3 SV=1
+sp|P0AA48|PLAP_ECO57	23.614	9.01e-13	87	275	163	sp|Q9UM01|YLAT1_HUMAN Y+L amino acid transporter 1 OS=Homo sapiens OX=9606 GN=SLC7A7 PE=1 SV=2
+sp|Q8XE09|RHMA_ECO57	43.307	1.02e-70	95	143	548	sp|P23522|GARL_ECOLI 5-keto-4-deoxy-D-glucarate aldolase OS=Escherichia coli (strain K12) OX=83333 GN=garL PE=1 SV=2
+sp|P0AAG7|MDLB_ECO57	28.077	4.31e-54	87	330	498	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|P0AAG7|MDLB_ECO57	23.800	2.66e-25	87	337	270	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q8X739|PHOQ_ECO57	99.177	0.0	100	4	2555	sp|P23837|PHOQ_ECOLI Sensor protein PhoQ OS=Escherichia coli (strain K12) OX=83333 GN=phoQ PE=1 SV=1
+sp|P0A436|PTKB_ECO57	27.500	0.81	83	45	54	sp|P50173|GLDA_PSEPU Glycerol dehydrogenase OS=Pseudomonas putida OX=303 GN=gldA PE=3 SV=1
+sp|Q8XDF7|LLDD_ECO57	32.800	4.64e-54	93	216	470	sp|P09437|CYB2_WICAO Cytochrome b2, mitochondrial OS=Wickerhamomyces anomalus OX=4927 GN=CYB2 PE=1 SV=2
+sp|Q8X899|RHAB_ECO57	62.733	0.0	99	179	1610	sp|A4TRT0|RHAB_YERPP Rhamnulokinase OS=Yersinia pestis (strain Pestoides F) OX=386656 GN=rhaB PE=3 SV=2
+sp|Q8XDR6|LCFA_ECO57	26.404	2.27e-36	86	320	355	sp|P18163|ACSL1_RAT Long-chain-fatty-acid--CoA ligase 1 OS=Rattus norvegicus OX=10116 GN=Acsl1 PE=1 SV=1
+sp|P0ABL7|NAPC_ECO57	31.492	6.51e-29	87	116	258	tr|A0A6H1UBI8|A0A6H1UBI8_9GAMM Cytochrome c-type protein OS=Ferrimonas sp. S7 OX=2724191 GN=HER31_01745 PE=3 SV=1
+sp|P0AF65|NSRR_ECO57	25.926	9.77e-06	92	92	93	sp|P0A0Z0|Y1378_NEIMB Putative HTH-type transcriptional regulator NMB1378 OS=Neisseria meningitidis serogroup B (strain MC58) OX=122586 GN=NMB1378 PE=4 SV=1
+sp|Q8X9Z9|LEU3_ECO57	25.123	3.37e-18	97	233	202	sp|P08200|IDH_ECOLI Isocitrate dehydrogenase [NADP] OS=Escherichia coli (strain K12) OX=83333 GN=icd PE=1 SV=1
+sp|P61891|MDH_ECO57	100.000	0.0	100	0	1598	sp|B7MBZ7|MDH_ECO45 Malate dehydrogenase OS=Escherichia coli O45:K1 (strain S88 / ExPEC) OX=585035 GN=mdh PE=3 SV=1
+sp|Q8X4L6|NIKE_ECO57	24.786	2.81e-10	84	141	138	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q8X7G3|THIM_ECO57	35.036	1.34e-33	95	151	304	sp|B7GQ20|THIM_BIFLS Hydroxyethylthiazole kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=thiM PE=3 SV=1
+sp|P0A860|TPIS_ECO57	44.800	1.02e-61	98	132	487	sp|P60174|TPIS_HUMAN Triosephosphate isomerase OS=Homo sapiens OX=9606 GN=TPI1 PE=1 SV=4
+sp|P0A9T9|YBBA_ECO57	31.443	5.10e-15	81	113	172	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+sp|P0A7N3|R31B1_ECO57	25.333	0.37	86	56	56	sp|Q487A4|ACEK_COLP3 Isocitrate dehydrogenase kinase/phosphatase OS=Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX=167879 GN=aceK PE=3 SV=1
+sp|P0AAE4|PROY_ECO57	21.292	5.12e-08	86	273	124	sp|Q92536|YLAT2_HUMAN Y+L amino acid transporter 2 OS=Homo sapiens OX=9606 GN=SLC7A6 PE=1 SV=3
+sp|P0A7N0|RL31_ECO57	27.586	0.40	83	33	55	tr|A0A094JHF8|A0A094JHF8_9GAMM Fumarate reductase flavoprotein subunit OS=Shewanella mangrovi OX=1515746 GN=HR45_10665 PE=3 SV=1
+sp|Q8XA06|THIQ_ECO57	27.273	9.15e-15	84	134	170	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+sp|P0AAH2|PSTB_ECO57	26.457	1.85e-13	86	149	163	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|P0A9F0|YEIL_ECO57	20.408	0.066	85	146	68	sp|Q79VI7|CRPL_CORGL CRP-like cAMP-activated global transcriptional regulator OS=Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025) OX=196627 GN=glxR PE=1 SV=1
+sp|P0AGF5|XYLE_ECO57	28.454	6.11e-53	94	284	465	sp|P11167|GTR1_RAT Solute carrier family 2, facilitated glucose transporter member 1 OS=Rattus norvegicus OX=10116 GN=Slc2a1 PE=1 SV=1
+sp|P64460|YNCJ_ECO57	29.851	0.46	88	47	55	sp|Q86ZF1|ACEA_LEPMC Isocitrate lyase OS=Leptosphaeria maculans OX=5022 GN=ICL1 PE=2 SV=1
+sp|Q8X7S0|YGCU_ECO57	25.466	4.69e-29	98	321	294	sp|Q94AX4|DLD_ARATH D-lactate dehydrogenase [cytochrome], mitochondrial OS=Arabidopsis thaliana OX=3702 GN=DLD PE=1 SV=1
+sp|P0A9X3|ZNUC_ECO57	27.602	2.19e-09	80	131	130	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|P58409|HCXB_ECO57	100.000	0.0	100	0	1926	sp|P58409|HCXB_ECO57 Hydroxycarboxylate dehydrogenase B OS=Escherichia coli O157:H7 OX=83334 GN=hcxB PE=3 SV=1
+sp|Q8X7X7|CYSN_ECO57	26.862	1.03e-41	86	280	383	sp|P68104|EF1A1_HUMAN Elongation factor 1-alpha 1 OS=Homo sapiens OX=9606 GN=EEF1A1 PE=1 SV=1
+sp|Q8XCV5|ARCC_ECO57	40.541	1.77e-51	95	159	428	sp|P0A2X7|ARCC1_ENTFA Carbamate kinase 1 OS=Enterococcus faecalis (strain ATCC 700802 / V583) OX=226185 GN=arcC1 PE=1 SV=2
+sp|P58541|ARAB_ECO57	71.609	0.0	98	157	2135	sp|Q6D4W6|ARAB_PECAS Ribulokinase OS=Pectobacterium atrosepticum (strain SCRI 1043 / ATCC BAA-672) OX=218491 GN=araB PE=3 SV=1
+sp|Q8X968|AROP_ECO57	20.785	4.62e-09	90	299	132	sp|Q92536|YLAT2_HUMAN Y+L amino acid transporter 2 OS=Homo sapiens OX=9606 GN=SLC7A6 PE=1 SV=3
+sp|Q8XE58|CCMA_ECO57	24.737	1.99e-08	84	123	120	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+sp|P0AC90|GM4D_ECO57	25.070	8.16e-12	91	209	152	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+sp|P0A9R9|FTSE_ECO57	27.368	1.58e-12	82	124	153	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+sp|Q8X6R3|FUCK_ECO57	100.000	0.0	100	0	2574	sp|Q8X6R3|FUCK_ECO57 L-fuculokinase OS=Escherichia coli O157:H7 OX=83334 GN=fucK PE=3 SV=3
+sp|P0A9E7|FNR_ECO57	20.976	1.87e-06	81	159	105	sp|Q79VI7|CRPL_CORGL CRP-like cAMP-activated global transcriptional regulator OS=Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025) OX=196627 GN=glxR PE=1 SV=1
+sp|Q8X607|ACEK_ECO57	100.000	0.0	100	0	3105	sp|Q8X607|ACEK_ECO57 Isocitrate dehydrogenase kinase/phosphatase OS=Escherichia coli O157:H7 OX=83334 GN=aceK PE=1 SV=1
+sp|P0AEC7|BARA_ECO57	100.000	0.0	100	0	4877	sp|P0AEC5|BARA_ECOLI Signal transduction histidine-protein kinase BarA OS=Escherichia coli (strain K12) OX=83333 GN=barA PE=1 SV=1
+sp|Q8XAE3|GARL_ECO57	99.609	0.0	100	1	1340	sp|P23522|GARL_ECOLI 5-keto-4-deoxy-D-glucarate aldolase OS=Escherichia coli (strain K12) OX=83333 GN=garL PE=1 SV=2
+sp|P0AER2|GLPF_ECO57	74.031	5.91e-137	92	67	989	sp|Q51389|GLPF_PSEAE Glycerol uptake facilitator protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=glpF PE=3 SV=2
+sp|P0ACN6|ALLR_ECO57	42.424	6.13e-73	96	149	565	sp|P16528|ICLR_ECOLI Transcriptional repressor IclR OS=Escherichia coli (strain K12) OX=83333 GN=iclR PE=1 SV=1
+sp|P0A6Z2|HSCA_ECO57	39.963	5.32e-117	84	296	920	sp|P11484|SSB1_YEAST Ribosome-associated molecular chaperone SSB1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSB1 PE=1 SV=3
+sp|P0AGL0|ISCR_ECO57	50.000	3.93e-44	90	71	353	sp|P0A0Z0|Y1378_NEIMB Putative HTH-type transcriptional regulator NMB1378 OS=Neisseria meningitidis serogroup B (strain MC58) OX=122586 GN=NMB1378 PE=4 SV=1
+sp|Q8X8E3|LOLD_ECO57	28.440	2.11e-15	86	128	175	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+sp|P0A9S8|LIVG_ECO57	23.810	2.84e-10	89	152	138	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|P0A9S2|FUCO_ECO57	100.000	0.0	100	0	2007	sp|P0A9S2|FUCO_ECO57 Lactaldehyde reductase OS=Escherichia coli O157:H7 OX=83334 GN=fucO PE=3 SV=2
+sp|P58220|GHRB_ECO57	27.509	3.93e-25	82	186	249	sp|P52643|LDHD_ECOLI D-lactate dehydrogenase OS=Escherichia coli (strain K12) OX=83333 GN=ldhA PE=1 SV=1
+sp|Q8X845|FRLA_ECO57	26.509	1.92e-22	98	289	240	sp|Q01650|LAT1_HUMAN Large neutral amino acids transporter small subunit 1 OS=Homo sapiens OX=9606 GN=SLC7A5 PE=1 SV=2
+sp|P0AE25|ARAE_ECO57	26.722	6.03e-46	96	318	414	sp|P17809|GTR1_MOUSE Solute carrier family 2, facilitated glucose transporter member 1 OS=Mus musculus OX=10090 GN=Slc2a1 PE=1 SV=4
+sp|P0A6A5|ACKA_ECO57	100.000	0.0	100	0	2128	sp|P0A6A4|ACKA_ECOL6 Acetate kinase OS=Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC) OX=199310 GN=ackA PE=3 SV=1
+sp|P0A6D9|AROK_ECO57	26.241	0.019	80	94	71	sp|Q2S4R2|LDH_SALRD L-lactate dehydrogenase OS=Salinibacter ruber (strain DSM 13855 / M31) OX=309807 GN=ldh PE=3 SV=1
+sp|Q8X5T5|ACSA_ECO57	99.387	0.0	100	4	3482	sp|P27550|ACSA_ECOLI Acetyl-coenzyme A synthetase OS=Escherichia coli (strain K12) OX=83333 GN=acs PE=1 SV=2
+sp|Q8X9L2|GLMM_ECO57	26.551	4.47e-12	80	244	157	sp|P18159|PGCA_BACSU Phosphoglucomutase OS=Bacillus subtilis (strain 168) OX=224308 GN=pgcA PE=1 SV=3
+sp|Q8XBE0|DAPE_ECO57	21.316	1.50e-09	93	255	134	sp|Q99JW2|ACY1_MOUSE Aminoacylase-1 OS=Mus musculus OX=10090 GN=Acy1 PE=1 SV=1
+sp|P0AB42|BHSA_ECO57	28.395	0.10	91	52	60	sp|Q4J9R1|GLPK1_SULAC Glycerol kinase 1 OS=Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770) OX=330779 GN=glpK1 PE=3 SV=1
+sp|P58408|ALLD_ECO57	100.000	0.0	100	0	1875	sp|P58408|ALLD_ECO57 Ureidoglycolate dehydrogenase (NAD(+)) OS=Escherichia coli O157:H7 OX=83334 GN=allD PE=3 SV=1
+sp|Q8X6K6|AQPZ_ECO57	30.000	9.78e-16	99	144	174	sp|Q51389|GLPF_PSEAE Glycerol uptake facilitator protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=glpF PE=3 SV=2
+sp|P0AAF8|ARTP_ECO57	26.695	1.75e-12	92	134	154	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q8XA34|CAIC_ECO57	25.424	5.57e-36	96	358	350	sp|P27550|ACSA_ECOLI Acetyl-coenzyme A synthetase OS=Escherichia coli (strain K12) OX=83333 GN=acs PE=1 SV=2
+sp|P0A9Q8|ADHE_ECO57	100.000	0.0	100	0	4750	sp|P0A9Q8|ADHE_ECO57 Aldehyde-alcohol dehydrogenase OS=Escherichia coli O157:H7 OX=83334 GN=adhE PE=3 SV=2
+sp|P0AE68|CHEY_ECO57	100.000	7.89e-92	100	0	660	sp|P0AE67|CHEY_ECOLI Chemotaxis protein CheY OS=Escherichia coli (strain K12) OX=83333 GN=cheY PE=1 SV=2
+sp|P0ACK0|CRP_ECO57	30.392	2.14e-23	96	137	224	sp|Q79VI7|CRPL_CORGL CRP-like cAMP-activated global transcriptional regulator OS=Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025) OX=196627 GN=glxR PE=1 SV=1
+sp|P0AB72|ALF_ECO57	25.904	1.07e-21	90	203	226	sp|D4GYE0|ALF_HALVD Fructose-bisphosphate aldolase class 2 OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=fba PE=1 SV=1
+sp|P0A6Z0|DNAK_ECO57	46.242	7.68e-166	93	301	1249	sp|P11484|SSB1_YEAST Ribosome-associated molecular chaperone SSB1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSB1 PE=1 SV=3
+sp|Q8XDG6|KDSB_ECO57	25.234	0.057	86	140	70	sp|P13154|DHLE_GEOSE Leucine dehydrogenase OS=Geobacillus stearothermophilus OX=1422 GN=ldh PE=1 SV=3
+sp|Q8XAY5|LSRK_ECO57	100.000	0.0	100	0	2829	sp|Q8XAY5|LSRK_ECO57 Autoinducer-2 kinase OS=Escherichia coli O157:H7 OX=83334 GN=lsrK PE=3 SV=1
+sp|P60753|MSBA_ECO57	27.733	1.99e-43	82	325	415	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|P0A764|NDK_ECO57	43.885	1.63e-38	97	78	314	sp|P15531|NDKA_HUMAN Nucleoside diphosphate kinase A OS=Homo sapiens OX=9606 GN=NME1 PE=1 SV=1
+sp|P0AD62|KPYK1_ECO57	44.421	6.91e-122	99	246	932	sp|Q7RVA8|KPYK_NEUCR Pyruvate kinase OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=ace-8 PE=3 SV=1
+sp|P0AFS4|FOLM_ECO57	23.770	0.006	93	144	78	sp|Q08062|MDHC_MAIZE Malate dehydrogenase, cytoplasmic OS=Zea mays OX=4577 PE=1 SV=2
+sp|P0AB76|KBAY_ECO57	31.349	3.35e-31	82	153	290	sp|D4GYE0|ALF_HALVD Fructose-bisphosphate aldolase class 2 OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=fba PE=1 SV=1
+sp|Q8X8H6|KTHY_ECO57	37.915	1.06e-33	99	127	295	sp|B7GT80|KTHY_BIFLS Thymidylate kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=tmk PE=3 SV=1
+sp|P0AAG4|GLTL_ECO57	27.311	4.87e-13	93	130	158	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q8X5U1|NIKD_ECO57	23.077	1.30e-06	85	137	109	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+sp|Q8XBV3|ENTE_ECO57	22.645	7.37e-24	95	369	256	sp|B9DGD6|ACS_ARATH Acetyl-coenzyme A synthetase, chloroplastic/glyoxysomal OS=Arabidopsis thaliana OX=3702 GN=ACS PE=1 SV=1
+sp|P0A9V3|LPTB_ECO57	24.378	3.24e-14	80	141	167	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+sp|Q8XA82|KHSE_ECO57	23.529	5.66e-05	80	161	95	sp|B7GPE4|ISPE_BIFLS 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase OS=Bifidobacterium longum subsp. infantis (strain ATCC 15697 / DSM 20088 / JCM 1222 / NCTC 11817 / S12) OX=391904 GN=ispE PE=3 SV=1
+tr|A0A0H3JGX0|A0A0H3JGX0_ECO57	30.189	0.19	89	26	55	sp|Q5GT41|MDH_WOLTR Malate dehydrogenase OS=Wolbachia sp. subsp. Brugia malayi (strain TRS) OX=292805 GN=mdh PE=3 SV=1
+tr|A0A0H3JCK6|A0A0H3JCK6_ECO57	25.000	0.85	94	43	51	sp|B9DN93|ACKA_STACT Acetate kinase OS=Staphylococcus carnosus (strain TM300) OX=396513 GN=ackA PE=3 SV=1
+tr|A7UQX5|A7UQX5_ECO57	29.167	0.24	87	39	56	sp|Q5FP70|GLPK_GLUOX Glycerol kinase OS=Gluconobacter oxydans (strain 621H) OX=290633 GN=glpK PE=3 SV=1
+tr|Q8X6B2|Q8X6B2_ECO57	23.451	3.09e-04	95	128	87	sp|P97819|PLPL9_MOUSE 85/88 kDa calcium-independent phospholipase A2 OS=Mus musculus OX=10090 GN=Pla2g6 PE=1 SV=3
+tr|A0A0H3JQV0|A0A0H3JQV0_ECO57	25.895	4.59e-13	94	209	161	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+tr|A0A0H3JMD2|A0A0H3JMD2_ECO57	23.529	4.31e-13	89	155	159	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|A0A0H3JJF9|A0A0H3JJF9_ECO57	32.661	7.30e-29	80	142	273	sp|D4GYE0|ALF_HALVD Fructose-bisphosphate aldolase class 2 OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=fba PE=1 SV=1
+tr|Q8XD14|Q8XD14_ECO57	18.807	0.029	83	163	73	sp|B2JQD2|MDH_PARP8 Malate dehydrogenase OS=Paraburkholderia phymatum (strain DSM 17167 / CIP 108236 / LMG 21445 / STM815) OX=391038 GN=mdh PE=3 SV=1
+tr|Q8XDV1|Q8XDV1_ECO57	29.876	1.82e-28	80	146	270	sp|D4GYE0|ALF_HALVD Fructose-bisphosphate aldolase class 2 OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=fba PE=1 SV=1
+tr|Q8XCN4|Q8XCN4_ECO57	29.435	3.32e-34	93	172	305	sp|P16528|ICLR_ECOLI Transcriptional repressor IclR OS=Escherichia coli (strain K12) OX=83333 GN=iclR PE=1 SV=1
+tr|Q8X5T0|Q8X5T0_ECO57	25.054	2.52e-30	89	311	302	sp|Q9CG64|GLPK_LACLA Glycerol kinase OS=Lactococcus lactis subsp. lactis (strain IL1403) OX=272623 GN=glpK PE=3 SV=1
+tr|A0A2Z5XN35|A0A2Z5XN35_ECO57	27.160	0.96	93	52	52	sp|Q02535|ID3_HUMAN DNA-binding protein inhibitor ID-3 OS=Homo sapiens OX=9606 GN=ID3 PE=1 SV=2
+tr|Q8X600|Q8X600_ECO57	26.941	8.77e-11	87	147	141	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|Q8XE06|Q8XE06_ECO57	25.100	3.63e-20	95	184	208	sp|P16528|ICLR_ECOLI Transcriptional repressor IclR OS=Escherichia coli (strain K12) OX=83333 GN=iclR PE=1 SV=1
+tr|A0A0H3JMC7|A0A0H3JMC7_ECO57	99.797	0.0	100	1	2531	sp|P39263|YFCC_ECOLI Putative basic amino acid antiporter YfcC OS=Escherichia coli (strain K12) OX=83333 GN=yfcC PE=4 SV=2
+tr|Q8X695|Q8X695_ECO57	35.688	1.16e-46	90	170	396	sp|Q05957|PDP_DIACA Petal death protein OS=Dianthus caryophyllus OX=3570 GN=PDP PE=1 SV=1
+tr|Q8X4R4|Q8X4R4_ECO57	21.967	6.31e-07	89	196	112	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+tr|Q8XBY0|Q8XBY0_ECO57	21.957	1.44e-13	94	304	169	sp|Q92536|YLAT2_HUMAN Y+L amino acid transporter 2 OS=Homo sapiens OX=9606 GN=SLC7A6 PE=1 SV=3
+tr|Q8XBU7|Q8XBU7_ECO57	98.895	0.0	100	4	1892	sp|P45579|HCXA_ECOLI Hydroxycarboxylate dehydrogenase A OS=Escherichia coli (strain K12) OX=83333 GN=hcxA PE=1 SV=2
+tr|Q8X9Q7|Q8X9Q7_ECO57	99.696	0.0	100	1	1755	sp|P52643|LDHD_ECOLI D-lactate dehydrogenase OS=Escherichia coli (strain K12) OX=83333 GN=ldhA PE=1 SV=1
+tr|Q8X4R0|Q8X4R0_ECO57	23.770	5.82e-11	86	148	144	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q8X666|Q8X666_ECO57	99.475	0.0	100	3	3068	sp|P06149|DLD_ECOLI Quinone-dependent D-lactate dehydrogenase OS=Escherichia coli (strain K12) OX=83333 GN=dld PE=1 SV=3
+tr|Q8XBL1|Q8XBL1_ECO57	99.408	5.25e-116	100	1	828	sp|P69785|PTGA_SHIFL PTS system glucose-specific EIIA component OS=Shigella flexneri OX=623 GN=crr PE=3 SV=2
+tr|Q8X692|Q8X692_ECO57	36.735	6.47e-139	99	371	1072	sp|P27550|ACSA_ECOLI Acetyl-coenzyme A synthetase OS=Escherichia coli (strain K12) OX=83333 GN=acs PE=1 SV=2
+tr|Q8XAQ2|Q8XAQ2_ECO57	24.318	9.28e-07	91	278	113	sp|Q9UM01|YLAT1_HUMAN Y+L amino acid transporter 1 OS=Homo sapiens OX=9606 GN=SLC7A7 PE=1 SV=2
+tr|Q8XAH2|Q8XAH2_ECO57	26.190	0.37	80	52	58	sp|Q61072|ADAM9_MOUSE Disintegrin and metalloproteinase domain-containing protein 9 OS=Mus musculus OX=10090 GN=Adam9 PE=1 SV=2
+tr|Q8X722|Q8X722_ECO57	99.279	0.0	100	3	2187	sp|P08200|IDH_ECOLI Isocitrate dehydrogenase [NADP] OS=Escherichia coli (strain K12) OX=83333 GN=icd PE=1 SV=1
+tr|Q8X942|Q8X942_ECO57	55.060	9.15e-130	99	150	954	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+tr|A0A0H3JLQ3|A0A0H3JLQ3_ECO57	28.571	0.25	95	28	53	sp|Q63644|ROCK1_RAT Rho-associated protein kinase 1 OS=Rattus norvegicus OX=10116 GN=Rock1 PE=1 SV=1
+tr|A0A0H3JGG0|A0A0H3JGG0_ECO57	25.954	3.07e-14	84	258	175	sp|Q4U2R8|S22A6_HUMAN Solute carrier family 22 member 6 OS=Homo sapiens OX=9606 GN=SLC22A6 PE=1 SV=1
+tr|Q8X889|Q8X889_ECO57	26.923	0.20	89	35	55	sp|P49446|PTPRE_MOUSE Receptor-type tyrosine-protein phosphatase epsilon OS=Mus musculus OX=10090 GN=Ptpre PE=1 SV=3
+tr|Q8XD78|Q8XD78_ECO57	51.689	5.87e-101	95	136	758	sp|P0A2X7|ARCC1_ENTFA Carbamate kinase 1 OS=Enterococcus faecalis (strain ATCC 700802 / V583) OX=226185 GN=arcC1 PE=1 SV=2
+tr|A0A0H3JCR2|A0A0H3JCR2_ECO57	25.612	2.39e-19	88	317	218	sp|P18159|PGCA_BACSU Phosphoglucomutase OS=Bacillus subtilis (strain 168) OX=224308 GN=pgcA PE=1 SV=3
+tr|Q8X2A9|Q8X2A9_ECO57	26.786	0.062	80	40	60	sp|Q99527|GPER1_HUMAN G-protein coupled estrogen receptor 1 OS=Homo sapiens OX=9606 GN=GPER1 PE=1 SV=1
+tr|Q8X7R6|Q8X7R6_ECO57	98.780	0.0	100	6	2618	sp|P55138|YGCE_ECOLI Uncharacterized sugar kinase YgcE OS=Escherichia coli (strain K12) OX=83333 GN=ygcE PE=3 SV=2
+tr|Q8X762|Q8X762_ECO57	99.728	0.0	100	1	1927	sp|P0A9S6|GLDA_ECOL6 Glycerol dehydrogenase OS=Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC) OX=199310 GN=gldA PE=3 SV=1
+tr|Q8XBG3|Q8XBG3_ECO57	39.329	5.24e-77	96	194	604	sp|P71103|PTAS_CLOAB Phosphate acetyltransferase OS=Clostridium acetobutylicum (strain ATCC 824 / DSM 792 / JCM 1419 / LMG 5710 / VKM B-1787) OX=272562 GN=pta PE=3 SV=2
+tr|Q8X4L1|Q8X4L1_ECO57	21.005	7.80e-07	85	155	110	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|A0A0H3JD52|A0A0H3JD52_ECO57	27.966	0.078	92	68	64	sp|Q9RT38|GLPK_DEIRA Glycerol kinase OS=Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422) OX=243230 GN=glpK PE=3 SV=1
+tr|A0A0H3JR68|A0A0H3JR68_ECO57	62.529	0.0	98	149	1373	sp|P9WKK7|ACEA_MYCTU Isocitrate lyase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=icl PE=1 SV=1
+tr|A0A0H3JCQ0|A0A0H3JCQ0_ECO57	29.167	0.59	87	39	53	sp|Q5FP70|GLPK_GLUOX Glycerol kinase OS=Gluconobacter oxydans (strain 621H) OX=290633 GN=glpK PE=3 SV=1
+tr|A0A0H3JGD7|A0A0H3JGD7_ECO57	33.908	1.89e-78	85	289	654	sp|P11484|SSB1_YEAST Ribosome-associated molecular chaperone SSB1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSB1 PE=1 SV=3
+tr|A0A0H3JHC2|A0A0H3JHC2_ECO57	28.108	1.74e-31	97	133	275	sp|P30300|GLPP_BACSU Glycerol uptake operon antiterminator regulatory protein OS=Bacillus subtilis (strain 168) OX=224308 GN=glpP PE=2 SV=1
+tr|Q8X5Z9|Q8X5Z9_ECO57	100.000	0.0	100	0	1451	sp|P16528|ICLR_ECOLI Transcriptional repressor IclR OS=Escherichia coli (strain K12) OX=83333 GN=iclR PE=1 SV=1
+tr|A0A2Z5XIW6|A0A2Z5XIW6_ECO57	33.333	0.58	94	22	49	sp|A1T2Y9|ACKA_MYCVP Acetate kinase OS=Mycolicibacterium vanbaalenii (strain DSM 7251 / JCM 13017 / NRRL B-24157 / PYR-1) OX=350058 GN=ackA PE=3 SV=1
+tr|Q8XCW7|Q8XCW7_ECO57	30.303	3.44e-53	93	283	465	sp|P17809|GTR1_MOUSE Solute carrier family 2, facilitated glucose transporter member 1 OS=Mus musculus OX=10090 GN=Slc2a1 PE=1 SV=4
+tr|Q8X7C7|Q8X7C7_ECO57	55.141	0.0	98	370	2537	sp|Q9SIB9|ACO3M_ARATH Aconitate hydratase 3, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=ACO3 PE=1 SV=2
+tr|Q8XCZ6|Q8XCZ6_ECO57	31.443	5.10e-15	81	113	172	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|Q8X5W9|Q8X5W9_ECO57	24.490	1.32e-32	90	348	326	sp|B9DGD6|ACS_ARATH Acetyl-coenzyme A synthetase, chloroplastic/glyoxysomal OS=Arabidopsis thaliana OX=3702 GN=ACS PE=1 SV=1
+tr|A0A2Z5XJ93|A0A2Z5XJ93_ECO57	33.333	0.38	94	22	50	sp|A1T2Y9|ACKA_MYCVP Acetate kinase OS=Mycolicibacterium vanbaalenii (strain DSM 7251 / JCM 13017 / NRRL B-24157 / PYR-1) OX=350058 GN=ackA PE=3 SV=1
+tr|A0A0H3JER5|A0A0H3JER5_ECO57	35.529	5.99e-78	99	285	638	sp|Q7RVA8|KPYK_NEUCR Pyruvate kinase OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=ace-8 PE=3 SV=1
+tr|A0A2Z6FLG3|A0A2Z6FLG3_ECO57	36.667	0.34	80	17	50	sp|Q9Y6W8|ICOS_HUMAN Inducible T-cell costimulator OS=Homo sapiens OX=9606 GN=ICOS PE=1 SV=1
+tr|Q7DBF5|Q7DBF5_ECO57	24.176	3.32e-11	92	211	147	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+tr|A0A0H3JI74|A0A0H3JI74_ECO57	31.501	1.84e-53	90	293	473	sp|P18158|GLPD_BACSU Aerobic glycerol-3-phosphate dehydrogenase OS=Bacillus subtilis (strain 168) OX=224308 GN=glpD PE=2 SV=2
+tr|A0A0H3JC82|A0A0H3JC82_ECO57	26.728	1.73e-16	86	142	184	sp|Q9UNQ0|ABCG2_HUMAN Broad substrate specificity ATP-binding cassette transporter ABCG2 OS=Homo sapiens OX=9606 GN=ABCG2 PE=1 SV=3
+tr|Q8XA25|Q8XA25_ECO57	23.690	1.70e-15	92	270	185	sp|O15245|S22A1_HUMAN Solute carrier family 22 member 1 OS=Homo sapiens OX=9606 GN=SLC22A1 PE=1 SV=2
+tr|Q8XCU8|Q8XCU8_ECO57	99.860	0.0	100	1	3779	sp|P0A9M8|PTA_ECOLI Phosphate acetyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=pta PE=1 SV=2
+tr|Q8X4T3|Q8X4T3_ECO57	25.333	2.84e-16	84	140	184	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q8X6A8|Q8X6A8_ECO57	45.875	7.08e-80	95	154	619	sp|P0A2X7|ARCC1_ENTFA Carbamate kinase 1 OS=Enterococcus faecalis (strain ATCC 700802 / V583) OX=226185 GN=arcC1 PE=1 SV=2
+tr|Q8XDI9|Q8XDI9_ECO57	99.217	0.0	100	3	2007	sp|P37686|ADH2_ECOLI Probable alcohol dehydrogenase OS=Escherichia coli (strain K12) OX=83333 GN=yiaY PE=3 SV=4
+tr|Q8XBG8|Q8XBG8_ECO57	60.291	0.0	99	174	1390	sp|E5Y379|ADHE_BILW3 Acetaldehyde dehydrogenase (acetylating) OS=Bilophila wadsworthia (strain 3_1_6) OX=563192 GN=adhE PE=1 SV=1
+tr|Q8XDM4|Q8XDM4_ECO57	99.380	0.0	100	3	2543	sp|P09099|XYLB_ECOLI Xylulose kinase OS=Escherichia coli (strain K12) OX=83333 GN=xylB PE=1 SV=1
+tr|A0A0H3JCJ9|A0A0H3JCJ9_ECO57	99.669	0.0	100	1	1569	sp|P0A9I1|CITE_ECOLI Citrate lyase subunit beta OS=Escherichia coli (strain K12) OX=83333 GN=citE PE=2 SV=1
+tr|Q8X7F9|Q8X7F9_ECO57	21.842	2.98e-08	97	334	126	sp|Q9UM01|YLAT1_HUMAN Y+L amino acid transporter 1 OS=Homo sapiens OX=9606 GN=SLC7A7 PE=1 SV=2
+tr|Q8XBH2|Q8XBH2_ECO57	99.241	0.0	100	3	2061	sp|P76553|EUTG_ECOLI Ethanolamine utilization protein EutG OS=Escherichia coli (strain K12) OX=83333 GN=eutG PE=3 SV=2
+tr|Q8XBC9|Q8XBC9_ECO57	29.464	6.78e-17	87	128	189	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
+tr|Q8X5T4|Q8X5T4_ECO57	31.383	1.25e-16	93	112	179	tr|A0A2G1ZJA8|A0A2G1ZJA8_9GAMM Cystathionine beta-synthase OS=Shewanella sp. OX=50422 GN=COB74_04105 PE=4 SV=1
+tr|Q7DBF6|Q7DBF6_ECO57	22.368	2.50e-05	89	196	99	sp|E8MF10|GALE_BIFL2 UDP-glucose 4-epimerase OS=Bifidobacterium longum subsp. longum (strain ATCC 15707 / DSM 20219 / JCM 1217 / NCTC 11818 / E194b) OX=565042 GN=lnpD PE=1 SV=1
+tr|Q8XBT8|Q8XBT8_ECO57	99.742	0.0	100	1	2048	sp|Q46856|YQHD_ECOLI Alcohol dehydrogenase YqhD OS=Escherichia coli (strain K12) OX=83333 GN=yqhD PE=1 SV=1
+tr|Q8XDS4|Q8XDS4_ECO57	27.299	1.68e-27	85	203	272	sp|P08200|IDH_ECOLI Isocitrate dehydrogenase [NADP] OS=Escherichia coli (strain K12) OX=83333 GN=icd PE=1 SV=1
+tr|Q8XDU9|Q8XDU9_ECO57	23.934	1.09e-11	87	262	154	sp|O15245|S22A1_HUMAN Solute carrier family 22 member 1 OS=Homo sapiens OX=9606 GN=SLC22A1 PE=1 SV=2
+tr|Q8X9X3|Q8X9X3_ECO57	23.434	1.23e-07	80	268	121	sp|Q9UM01|YLAT1_HUMAN Y+L amino acid transporter 1 OS=Homo sapiens OX=9606 GN=SLC7A7 PE=1 SV=2
+tr|Q8X585|Q8X585_ECO57	22.936	4.97e-09	83	149	128	sp|Q92887|MRP2_HUMAN ATP-binding cassette sub-family C member 2 OS=Homo sapiens OX=9606 GN=ABCC2 PE=1 SV=3
